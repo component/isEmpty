@@ -8,11 +8,9 @@
   "twitter": "@retrofox",
   "keywords": [
     "isempty",
+    "empty",
     "component"
   ],
-  "dependencies": {
-    "component/dom": "*"
-  },
   "scripts": [
     "index.js"
   ],
