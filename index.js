@@ -3,7 +3,7 @@
  * Module dependencies.
  */
 
-module.exports = function(){
+module.exports = function(obj){
   if (obj == null) return true;
 
   if (obj.length > 0)    return false;
