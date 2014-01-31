@@ -1,0 +1,20 @@
+
+{
+  "name": "isempty",
+  "description": "isempty component",
+  "repo": "component/isempty",
+  "version": "0.0.1",
+  "author": "Damian Suarez <rdsuarez@gmail.com>",
+  "twitter": "@retrofox",
+  "keywords": [
+    "isempty",
+    "component"
+  ],
+  "dependencies": {
+    "component/dom": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
