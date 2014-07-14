@@ -1,7 +1,5 @@
-
 {
   "name": "isempty",
-  "repo": "component/isempty",
   "description": "isempty component",
   "version": "0.0.1",
   "author": "Damian Suarez <rdsuarez@gmail.com>",
@@ -11,8 +9,14 @@
     "component"
   ],
   "main": "index.js",
-  "scripts": [
-    "index.js"
-  ],
+  "component": {
+    "scripts": {
+      "isempty/index.js": "index.js"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/component/isempty.git"
+  },
   "license": "MIT"
 }
